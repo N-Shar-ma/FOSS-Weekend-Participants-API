@@ -4,5 +4,11 @@
         "roll_number": "LCS2020000",
         "age": "19",
         "hobbies": ["reading", "writing", "playing badminton", "singing"]
+    },
+    {
+        "name": "Animesh Sahu",
+        "roll_number": "LCS2021035",
+        "age": "18",
+        "hobbies": ["play games", "listen to music", "try random things", "read blogs"]
     }
 ]
