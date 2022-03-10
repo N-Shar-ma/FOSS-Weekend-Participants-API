@@ -8,7 +8,14 @@ router.get('/:roll_number', (req, res) => { // returns profile with the requeste
     else res.sendStatus(404)
 })
 
-router.get('/', (req, res) => { // returns profiles of all the participants
+router.get('/', (req, res) => {
+    // If GET parameter age is present then return matching profiles
+    if (req.query.age != undefined) {
+        res.send(data.filter(e => e["age"] == req.query.age));
+        return;
+    }
+
+    // Or else returns profiles of all the participants
     res.send(data)
 })
 
