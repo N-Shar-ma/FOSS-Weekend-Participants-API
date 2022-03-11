@@ -4,5 +4,10 @@
         "roll_number": "LCS2020000",
         "age": "19",
         "hobbies": ["reading", "writing", "playing badminton", "singing"]
+    },{
+        "name": "Sahil Singh",
+        "roll_number": "LCS2021033",
+        "age": "18",
+        "hobbies": ["Video Editing","Playing PC Games","Watching Movies and Web Series","Writing reviews and short stories"]
     }
 ]
