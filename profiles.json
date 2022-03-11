@@ -4,5 +4,11 @@
         "roll_number": "LCS2020000",
         "age": "19",
         "hobbies": ["reading", "writing", "playing badminton", "singing"]
+    },
+    {
+        "name": "Saarthak Verma",
+        "roll_number": "LCI2021035",
+        "age": "19",
+        "hobbies": ["overthinking","playing videogames for plot"]
     }
 ]
