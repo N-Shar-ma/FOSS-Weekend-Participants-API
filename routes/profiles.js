@@ -8,8 +8,15 @@ router.get('/:roll_number', (req, res) => { // returns profile with the requeste
     else res.sendStatus(404)
 })
 
-router.get('/', (req, res) => { // returns profiles of all the participants
-    res.send(data)
+router.get('/', (req, res) => {
+    if (req.query.hobby){
+    let hobby = req.query.hobby;
+    const result = data.filter(val => val.hobbies.includes(hobby));
+    if (result.length != 0) res.send(result)
+    else res.sendStatus(404)
+    } else {
+        res.send(data)
+    }
 })
 
 module.exports = router
