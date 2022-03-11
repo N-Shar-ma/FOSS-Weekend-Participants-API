@@ -1,11 +1,5 @@
 [
     {
-        "name": "John Doe",
-        "roll_number": "LCS2020000",
-        "age": "19",
-        "hobbies": ["reading", "writing", "playing badminton", "singing"]
-    }
-    {
         "name": "Vidisha Agarwal",
         "roll_number": "LCI2021018",
         "age": "19",
