@@ -4,5 +4,11 @@
         "roll_number": "LCS2020000",
         "age": "19",
         "hobbies": ["reading", "writing", "playing badminton", "singing"]
+    },
+    {
+        "name": "Prateek Parmar",
+        "roll_number": "LCS2021017",
+        "age": "18",
+        "hobbies": ["gaming", "watching movies", "playing volleyball", "singing"]
     }
 ]
