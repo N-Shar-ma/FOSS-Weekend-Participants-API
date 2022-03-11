@@ -1,4 +1,12 @@
 [
+
+    {
+        "name": "John Doe",
+        "roll_number": "LCS2020000",
+        "age": "19",
+        "hobbies": ["reading", "writing", "playing badminton", "singing"]
+    }
+    ,
     {
         "name": "Deepak chattwani",
         "roll_number": "LCB2021004",
