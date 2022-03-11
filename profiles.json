@@ -4,5 +4,11 @@
         "roll_number": "LCS2020000",
         "age": "19",
         "hobbies": ["reading", "writing", "playing badminton", "singing"]
+    },
+    {
+        "name": "AKSHAT JAISWAL",
+        "roll_number": "LIT2021033",
+        "age": "19",
+        "hobbies": ["stargazing", "cricket", "spending time alone", "politics"]
     }
 ]
