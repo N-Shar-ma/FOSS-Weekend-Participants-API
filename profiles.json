@@ -1,8 +1,13 @@
-[
+[    {
+    "name": "John Doe",
+    "roll_number": "LCS2020000",
+    "age": "19",
+    "hobbies": ["reading", "writing", "playing badminton", "singing"]
+},
     {
-        "name": "Vedavyas Reddy",
-        "roll_number": "LCS2021015",
-        "age": "18",
-        "hobbies": ["reading", "writing", "playing badminton", "singing"]
+    "name": "Vedavyas Reddy",
+    "roll_number": "LCS2021015",
+    "age": "18",
+    "hobbies": ["reading", "writing", "playing badminton", "singing"]
     }
 ]
