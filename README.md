@@ -12,3 +12,5 @@ Tackling issue #1 is MANDATORY for all participants. Don't miss it!
 - After making any changes to the code, refresh the browser to see how it affects the results.
 
 Pro tip: To run any other commands in the terminal (like git commands), you don't need to stop the development server, just open another instance of the terminal (in VS Code, press the little plus sign to the top right of the terminal)
+
+
