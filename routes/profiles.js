@@ -9,10 +9,9 @@ router.get('/:roll_number', (req, res) => { // returns profile with the requeste
 })
 
 router.get('/', (req, res) => { // returns profiles of all the participants
-    console.log(req.query)
-    if(req.query.age){
+    if(req.query.hobby){
         res.send(data.filter(function (obj){
-            return obj.age === req.query.age;
+            return obj.hobbies.includes(req.query.hobby);
         }))
     }
     else{
