@@ -4,5 +4,11 @@
         "roll_number": "LCS2020000",
         "age": "19",
         "hobbies": ["reading", "writing", "playing badminton", "singing"]
+    },
+    {
+        "name": "Perumall Pardhiv",
+        "roll_number": "LIT2021001",
+        "age": "18",
+        "hobbies": ["reading", "writing", "playing badminton", "Listening Songs"]
     }
 ]
