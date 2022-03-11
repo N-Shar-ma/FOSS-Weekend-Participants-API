@@ -4,11 +4,5 @@
         "roll_number": "LCS2020000",
         "age": "19",
         "hobbies": ["reading", "writing", "playing badminton", "singing"]
-    },
-    {
-        "name": "Vikrant Palle",
-        "roll_number": "LCS2021011",
-        "age": "19",
-        "hobbies": ["football","gaming"]
     }
 ]

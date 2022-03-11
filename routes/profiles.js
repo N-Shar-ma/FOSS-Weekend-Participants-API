@@ -9,7 +9,15 @@ router.get('/:roll_number', (req, res) => { // returns profile with the requeste
 })
 
 router.get('/', (req, res) => { // returns profiles of all the participants
+    console.log(req.query)
+    if(req.query.age){
+        res.send(data.filter(function (obj){
+            return obj.age === req.query.age;
+        }))
+    }
+    else{
     res.send(data)
+    }
 })
 
 module.exports = router
