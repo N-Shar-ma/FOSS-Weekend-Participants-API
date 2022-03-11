@@ -1,8 +1,16 @@
 [
     {
+        "name": "John Doe",
+        "roll_number": "LCS2020000",
+        "age": "19",
+        "hobbies": ["reading", "writing", "playing badminton", "singing"]
+    },
+    {
         "name": "Mohit",
         "roll_number": "LCB2021047",
-        "age": "18",
-        "hobbies": ["reading", "playing badminton", "travelling" ,"listening song"]
+        "age": "19",
+        "hobbies": ["reading", "listening music", "playing badminton", "travelling"]
     }
+
+
 ]
