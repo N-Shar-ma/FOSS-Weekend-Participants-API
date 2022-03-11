@@ -7,7 +7,7 @@ Tackling issue #1 is MANDATORY for all participants. Don't miss it!
 
 ## Local Setup
 - After forking and cloning this repository to your local machine, open the project folder in your favourite code editor. 
-- In the terminal, ensuring you are in the project folder, run `npm i` to install all the dependencies
+- In the terminal, ensuring you are in the project folder, run x to install all the dependencies
 - To start the development server, run `npm run devStart`. You should see some output ending with `listening at http://localhost:3000/ in development` Go to this link to see the server in action. In case you need to stop the server (though you probably won't need to), just press `ctrl + C`
 - After making any changes to the code, refresh the browser to see how it affects the results.
 
