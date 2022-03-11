@@ -4,5 +4,11 @@
         "roll_number": "LCS2020000",
         "age": "19",
         "hobbies": ["reading", "writing", "playing badminton", "singing"]
+    },
+    {
+        "name": "Aditya Yadav",
+        "roll_number": "LCS202034",
+        "age": "19",
+        "hobbies": ["Linux", "Emacs", "Games", "Software configuration"]
     }
 ]
