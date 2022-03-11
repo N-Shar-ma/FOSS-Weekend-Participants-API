@@ -4,5 +4,11 @@
         "roll_number": "LCS2020000",
         "age": "19",
         "hobbies": ["reading", "writing", "playing badminton", "singing"]
+    }, 
+    {
+        "name": "Chakradhar Reddy",
+        "roll_number": "LCI2021011",
+        "age": "17",
+        "hobbies": ["reading", "writing", "Listening to songs"]
     }
 ]
