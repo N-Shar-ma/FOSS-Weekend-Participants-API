@@ -5,4 +5,11 @@
         "age": "19",
         "hobbies": ["reading", "writing", "playing badminton", "singing"]
     }
+    ,
+    {
+        "name": "Deepak chattwani",
+        "roll_number": "LCB2021004",
+        "age": "18",
+        "hobbies": ["reading", "cooking ","writing", "playing badminton", "singing"]
+    }
 ]
