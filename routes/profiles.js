@@ -2,20 +2,14 @@ const data = require('../profiles.json')
 const express = require("express")
 const router = express.Router()
 
+router.get('/hobbies', (req, res) => {
+    const result = [...new Set(data.flatMap(profile => profile.hobbies))] // flatMap return multiple values unlike map which only returns one
+    if(result) res.send(result)
+    else res.sendStatus(404)
+})
+
 router.get('/:roll_number', (req, res) => { // returns profile with the requested roll number
-    let rollNumber = req.params.roll_number;
-    let result;
-    if (rollNumber == "hobbies"){
-        result = new Set()
-        for (let p of data){
-            for (let h of p.hobbies){
-                result.add(h)
-            }
-        }
-        result = [...result]
-    } else {
-        result = data.find(profile => profile.roll_number.toLowerCase() === rollNumber.toLowerCase())
-    }
+    const result = data.find(profile => profile.roll_number.toLowerCase() === req.params.roll_number.toLowerCase())
     if(result) res.send(result)
     else res.sendStatus(404)
 })
