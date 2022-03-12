@@ -1,7 +1,7 @@
 {
   "name": "foss-weekend-participants-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "## About This is an API with data on all participants of IIIT-L Equinox's FOSS Weekend (that's you!) with 2 endpoints currently, one which returns data on all the participants and another which returns data on the participant with the requested roll number. All data is in JSON format. 2 endpoints sounds too little? Don't worry, you can add more (look at the Issues tab 👀)",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -12,7 +12,7 @@
     "url": "git+https://github.com/N-Shar-ma/FOSS-Weekend-Participants-API.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "ritesh",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/N-Shar-ma/FOSS-Weekend-Participants-API/issues"
