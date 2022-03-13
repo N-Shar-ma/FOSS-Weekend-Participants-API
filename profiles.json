@@ -4,5 +4,14 @@
         "roll_number": "LCS2020000",
         "age": "19",
         "hobbies": ["reading", "writing", "playing badminton", "singing"]
+    },
+ 
+
+
+    {    
+        "name": "Sanchit Gupta",
+        "roll_number": "LCB2021031",
+        "age": "19",
+        "hobbies": ["reading", "coading", "playing chess"]
     }
 ]
