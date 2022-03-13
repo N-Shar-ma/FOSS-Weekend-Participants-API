@@ -12,12 +12,8 @@ router.get('/', (req, res) => { // returns profiles of all the participants
     if(!req.query.age)
         res.send(data);
     else {
-        console.log(req.query.age);
         let responce = data.filter(e =>e.age == req.query.age);
-        if(responce.length != 0)
-            res.send(responce);
-        else
-            res.send("NO DATA AVAILABLE");
+        res.send(responce);
     }
 });
 
