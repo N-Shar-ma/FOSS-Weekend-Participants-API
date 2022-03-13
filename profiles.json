@@ -5,4 +5,11 @@
         "age": "19",
         "hobbies": ["reading", "writing", "playing badminton", "singing"]
     }
+    {
+        "name": "Bhavya Choudhary",
+        "roll_number": "LCI2021043",
+        "age": "19",
+        "hobbies": ["reading", "writing", "playing badminton", "dancing"]
+    }
+
 ]
