@@ -4,5 +4,9 @@
         "roll_number": "LCS2020000",
         "age": "19",
         "hobbies": ["reading", "writing", "playing badminton", "singing"]
-    }
+    },
+    {"name": "Snehil Gupta",
+        "roll_number": "LCS2021019",
+        "age": "17",
+        "hobbies": ["reading", "writing", "playing badminton", "dancing"]}
 ]
