@@ -4,5 +4,12 @@
         "roll_number": "LCS2020000",
         "age": "19",
         "hobbies": ["reading", "writing", "playing badminton", "singing"]
+    },
+    {
+        "name": "UMM E KULSUM",
+        "roll_number": "LIT2021021",
+        "age": "19",
+        "hobbies": ["sleeping", "writing", "eating", "procastaniting"]
     }
+    
 ]
