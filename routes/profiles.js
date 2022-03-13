@@ -9,7 +9,16 @@ router.get('/:roll_number', (req, res) => { // returns profile with the requeste
 })
 
 router.get('/', (req, res) => { // returns profiles of all the participants
-    res.send(data)
-})
+    if(!req.query.age)
+        res.send(data);
+    else {
+        console.log(req.query.age);
+        let responce = data.filter(e =>e.age == req.query.age);
+        if(responce.length != 0)
+            res.send(responce);
+        else
+            res.send("NO DATA AVAILABLE");
+    }
+});
 
 module.exports = router
