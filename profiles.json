@@ -4,5 +4,12 @@
         "roll_number": "LCS2020000",
         "age": "19",
         "hobbies": ["reading", "writing", "playing badminton", "singing"]
+    },
+
+    {
+        "name": "Rick Diggins",
+        "roll_number": "LCS2020420",
+        "age": "32",
+        "hobbies": ["About Town", "writing", "living", "singing"]
     }
 ]
