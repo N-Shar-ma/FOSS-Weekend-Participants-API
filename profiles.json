@@ -4,5 +4,11 @@
         "roll_number": "LCS2020000",
         "age": "19",
         "hobbies": ["reading", "writing", "playing badminton", "singing"]
+    },
+    {
+        "name": "Chris Y.",
+        "roll_number": "LCS2020007",
+        "age": "29",
+        "hobbies": ["cooking", "programming", "running", "weightlifting"]
     }
 ]
