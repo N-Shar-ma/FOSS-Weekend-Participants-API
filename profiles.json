@@ -4,5 +4,12 @@
         "roll_number": "LCS2020000",
         "age": "19",
         "hobbies": ["reading", "writing", "playing badminton", "singing"]
+    },
+    {
+        "name": "Harvey Francois",
+        "roll_number": "LCS666",
+        "age": "34",
+        "hobbies": ["cars", "coding", "motorcycle", "flat-earth"]
     }
+
 ]
